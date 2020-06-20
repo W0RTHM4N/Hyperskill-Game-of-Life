@@ -1,6 +1,6 @@
 # Game of Life
 
-My 7th project from Hyperskill.
+My 8th project from Hyperskill.
 
 This program provides Conway's Game of Life experience with a GUI.
 
